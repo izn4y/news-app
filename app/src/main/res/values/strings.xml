@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">news-app</string>
+    <string name="headlines">Headlines</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="article_thumbnail">article_thumbnail</string>
+    <string name="article_title">article_title</string>
+    <string name="article_content">article_content</string>
+</resources>

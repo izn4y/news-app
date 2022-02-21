@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/headlines"
+        android:id="@+id/action_headlines_fragment"
+        android:icon="@drawable/ic_baseline_whatshot_24" />
+
+    <item android:title="@string/search"
+        android:id="@+id/action_search_fragment"
+        android:icon="@drawable/ic_baseline_search_24" />
+
+    <item android:title="@string/favorites"
+        android:id="@+id/action_favorites_fragment"
+        android:icon="@drawable/ic_baseline_favorite_border_24" />
+
+    <item android:title="@string/bookmarks"
+        android:id="@+id/action_bookmarks_fragment"
+        android:icon="@drawable/ic_baseline_bookmarks_24" />
+
+</menu>
